@@ -9,5 +9,43 @@
       "id": "456"
     }
   ],
-  "products": []
+  "products": [],
+  "users": [
+    {
+      "id": "909f",
+      "fullName": "ddddd",
+      "email": "l.kareem37@yahoo.com",
+      "password": "test123",
+      "mobileNumber": [
+        "01033333111"
+      ],
+      "address": [
+        "s12, ddddd"
+      ]
+    },
+    {
+      "id": "0ac8",
+      "fullName": "mohammed",
+      "email": "l.kareem37@yahoo.com",
+      "password": "test123",
+      "mobileNumber": [
+        "01033333222"
+      ],
+      "address": [
+        "s12, ddddd"
+      ]
+    }
+  ],
+  "login": [
+    {
+      "id": "1de2",
+      "email": "l.kareem37@yahoo.com",
+      "password": "test123"
+    },
+    {
+      "id": "0d44",
+      "email": "l.kareem37@yahoo.com",
+      "password": "test123"
+    }
+  ]
 }
